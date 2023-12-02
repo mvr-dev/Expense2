@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Expense2</string>
+    <string name="col1">ID</string>
+    <string name="col2">ТИП</string>
+    <string name="col3">ЦЕЛЬ</string>
+    <string name="col4">КОЛ-ВО</string>
+</resources>
